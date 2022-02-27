@@ -1,0 +1,330 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The new booke of common prayer. According to the forme of the Kirke of Scotland, our brethren in faith and Covenant.</title>
+            <title>Book of common prayer.</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89945</idno>
+            <idno type="STC">Wing N582</idno>
+            <idno type="STC">Thomason E1189_5</idno>
+            <idno type="STC">ESTC R208279</idno>
+            <idno type="EEBO-CITATION">99867239</idno>
+            <idno type="PROQUEST">99867239</idno>
+            <idno type="VID">119544</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89945)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119544)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1189[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The new booke of common prayer. According to the forme of the Kirke of Scotland, our brethren in faith and Covenant.</title>
+                  <title>Book of common prayer.</title>
+                  <author>Church of England.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Ioness,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "may. 23. London".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119544:1" rendition="simple:additions"/>
+            <p>The new BOOKE OF Common Prayer.</p>
+            <p>According to the forme of the Kirke of <hi>Scotland,</hi> our Brethren in faith and Covenant.</p>
+            <q>
+               <bibl>Epheſ. 2. 18.</bibl>
+               <p>Through Chriſt we both have an acceſſe, by one Spirit unto the Father.</p>
+            </q>
+            <figure>
+               <head>C R</head>
+               <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>royal blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <add>May .23. London</add> Printed by <hi>Iohn Ioness,</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119544:2"/>
+            <pb n="1" facs="tcp:119544:2"/>
+            <head>THE New Booke of Common PRAYER.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">E</seg>Very weeke once, the Congrega<g ref="char:EOLhyphen"/>tion aſſemble to heare ſome place of the Scriptures orderly expounded, at which time, it is lawfull for every man to ſpeak or enquire, as God ſhall move his heart, and the Text Miniſter occaſion: ſo it be with<g ref="char:EOLhyphen"/>out pertinacy, or diſdain, as one that ſeeketh rather to profit, then to contend. And if ſo be that any contention ariſe, then ſuch as are appointed Moderators, either ſatisfies the par<g ref="char:EOLhyphen"/>ty, or elſe, if he ſeeme to cavill, exhort him to keep ſilence, reſerving the judgment there<g ref="char:EOLhyphen"/>of to the Miniſters and Elders, to be deter<g ref="char:EOLhyphen"/>mined in their Aſſembly.</hi>
+            </p>
+            <p>THe higheſt degree, and moſt annex<g ref="char:EOLhyphen"/>ed to the Miniſtery and Government of the Church, is the expoſition of Gods
+<pb n="2" facs="tcp:119544:3"/>
+Word, contained in the Old and New Te<g ref="char:EOLhyphen"/>ſtament.</p>
+            <p>But becauſe men cannot ſo well profit in that knowledge, except they be firſt in<g ref="char:EOLhyphen"/>ſtructed in the tongues: and humane Sci<g ref="char:EOLhyphen"/>ences (for now God worketh not com<g ref="char:EOLhyphen"/>monly by miracles) it is neceſſary that ſeed be ſowed for the time to come, to the in<g ref="char:EOLhyphen"/>tent that the Church be not left barren; and waſte to our poſteritie, &amp; that Schools alſo be erected, and Colledges maintained with juſt, and ſufficient ſtipends, wherein youth may be trained in the knowledge and feare of God, that in their ripe age they may prove worthy members of our Lord Jeſus Chiſt, whether it be to rule in Civill Policie, or to ſerve in the Spirituall Miniſtery, or elſe to live in godly reve<g ref="char:EOLhyphen"/>rence and ſubjection.</p>
+            <div type="rite_of_confession">
+               <p>
+                  <hi>WHen the Congregation is aſſembled, <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t the houre appointed, the Miniſter uſeth <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is Confeſsion or the like in effect, ex<g ref="char:EOLhyphen"/>horting the people diligently to examine them ſelves following in their hearts the tenour of his words.</hi>
+               </p>
+               <p>
+                  <pb facs="tcp:119544:3"/>
+The Miniſter ſaith.
+<q>O Eternall God and moſt mercifull Father, wee confeſſe and acknow<g ref="char:EOLhyphen"/>ledge, here before thy divine Majeſty that we are miſerable ſinners, conceived and borne in ſin and iniquity, ſo that in us there is no goodneſſe. For the fleſh ever more rebelleth againſt the Spirit, whereby we continually tranſgreſſe thine holy pre<g ref="char:EOLhyphen"/>cepts and Comandements, and ſo purchaſe to our ſelves, through thy juſt judgement, death and damnation, notwithſtanding ô heavenly Father, for as much as wee are diſpleaſed with our ſelves, for the ſins that we have committed againſt thee, and doe unfainedly repent us of the fame, we moſt humbly beſeech thee for Jeſus Chriſt his ſake, to ſhew thy mercie upon us, to for<g ref="char:EOLhyphen"/>give us all our ſins, &amp; to encreaſe thy ho<g ref="char:EOLhyphen"/>ly Spirit in us, that wee acknowledging from the bottome of our hearts our own unrighteouſneſſe, may from hence forth, nor only mortify our ſinfull luſts and af<g ref="char:EOLhyphen"/>fections, but alſo bring forth ſuch fruits as may bee agreeable to thy moſt bleſſed will, not for the worthineſſe thereof, but for the merits of thy dearely beloved
+<pb n="4" facs="tcp:119544:4"/>
+Sonne Jeſus Chriſt, our only Saviour, whom thou haſt already given, an oblati<g ref="char:EOLhyphen"/>on and offering for our ſins, and for whoſe ſake we are certainly perſwaded that thou wilt deny us nothing that we ſhall aske in his name according to thy will, for thy Spirit doth aſſure our conſciences that thou art our mercifull father and ſo loveſt us thy children through him, that no<g ref="char:EOLhyphen"/>thing is able to remove thy heavenly grace and favour from us. To thee there<g ref="char:EOLhyphen"/>fore ô Father, with the Sonne, and the Ho<g ref="char:EOLhyphen"/>ly Ghoſt, be all honour and glory, world without end, <hi>So be it.</hi>
+                  </q>
+               </p>
+               <p>
+                  <hi>Then the miniſter prayeth to God for the removing of ſome preſent trouble or o<g ref="char:EOLhyphen"/>therwiſe, as the preſent occaſion doth require.</hi>
+               </p>
+               <p>
+                  <hi>This done the people ſing a Pſalme altoge<g ref="char:EOLhyphen"/>ther in a tune which all may underſtand, as it hath uſed to bee done both in England and Scotland before Sermon, and whiles the ſaid Pſalme is ſinging the Miniſter goeth up into the Pulpit, and it being ended the Miniſter prayeth in the Pulpit as God ſhall move his he art, firſt beging the aſsiſtance of Gods holy Spirit, and ſo proceedeth to the Sermon.</hi>
+               </p>
+               <p>
+                  <pb n="5" facs="tcp:119544:4"/>
+                  <hi>After Sermon the Miniſter prayeth for the whole ſtate of Chriſts Church, concluding.</hi>
+                  <q>OUr Father which art in heaven, hal<g ref="char:EOLhyphen"/>lowed be thy name, thy Kingdome come, thy will be done, in earth as it is in heaven, give us this day our daily bread, and forgive us our treſpaſſes as we forgive them that treſpaſſe againſt us, and lead us not into temptation, but deliver us from evil, for thine is the Kingdome, the power and glory, for ever and ever, <hi>Amen.</hi>
+                  </q>
+               </p>
+               <p>Then he prayeth, ſaying.
+<q>ALmighty and everlaking GOD, vouchſaſe we beſeech thee to grant us perfect continuance in thy lively faith augmenting the ſame in us daily, till wee grow to the full meaſure of our perfecti<g ref="char:EOLhyphen"/>on in Chriſt, whereof we make confeſſion ſaying,</q>
+               </p>
+               <p>
+                  <q>I Beleeve in God the Father Almighty maker of heaven and earth, and in Jeſus Chriſt his only Son our Lord, which was conceived by the Holy Ghoſt, borne of the Virgin <hi>Mary</hi> ſuffered under <hi>Pontius Pilate,</hi> was crucified dead and buried, hee deſcended into hell, the third day he roſe again from the dead, he aſcended into
+<pb n="6" facs="tcp:119544:5"/>
+heaven, and ſitteth at the right hand of God the Father Almighty, from thence he ſhall come to judge the quick and the dead, I believe in the Holy Ghoſt, the holy Catholike Church, the communion of Saints, the forgiveneſſe of ſins, the re<g ref="char:EOLhyphen"/>ſurrection of the body, and the life ever<g ref="char:EOLhyphen"/>laſting, <hi>Amen.</hi>
+                  </q>
+               </p>
+               <p>
+                  <hi>Then the People ſing a Pſalme, which ended, the Miniſter pronounceth the bleſsing in theſe or the like words.</hi>
+               </p>
+               <p>
+                  <q>THe grace of our Lord Ieſus Chriſt, the love of God, and communion of the Holy Ghoſt, be with us all, ſo be it.</q>
+               </p>
+            </div>
+            <div type="rite_of_baptism">
+               <head>The Order of Baptiſme.</head>
+               <p>
+                  <hi>The childe which is to bee baptiſed muſt bee brought to the Church on the day appoin<g ref="char:EOLhyphen"/>ted, acompanied with the Father and God-Father, &amp;c. And after the Sermon, if there be any, the childe is to be preſented to the Miniſter.</hi>
+               </p>
+               <p>
+                  <hi>Then the Miniſter ſaith.</hi>
+                  <q>DOe you preſent this childe to bee baptiſed, earneſtly deſiring that it may be engrafted in the miſticall body of Jeſus Chriſt?</q>
+               </p>
+               <p>
+                  <hi>They anſwer.</hi>
+               </p>
+               <p>
+                  <q>Yea, Wee require the ſame.</q>
+               </p>
+               <p>
+                  <pb n="7" facs="tcp:119544:5"/>
+                  <hi>Then the Minister declaring and ſetting forth Gods love, deſires them to take notice and conſider the great charge that is laid upon them, telling them thus.</hi>
+               </p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="obligations_of_godparents">
+                           <opener>
+                              <salute>Dearely beloved.</salute>
+                           </opener>
+                           <p>IT is your dutie with all diligence that your children in time convenient be in<g ref="char:EOLhyphen"/>ſtructed in al doctrine neceſſary for a true Chriſtian, chiefly that they be taught to reſt upon the juſtice of Chriſt alone, and to abhorre; and flee all Superſtition, Pa<g ref="char:EOLhyphen"/>piſtry and Idolatry. A<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>d to the intent that we may be aſſured, that you the Father, and the ſurety conſent to the performance hereof: Declare here before God, and the face of his Congregation, the ſum of that Faith wherein you believe, and will in<g ref="char:EOLhyphen"/>ſtruct this child.</p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>
+                  <hi>Then the Father, or in his abſence the God<g ref="char:EOLhyphen"/>father, ſaith,</hi>
+                  <q>I Believe in God the Father Almightie, Maker of Heaven and Earth, and in Je<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s Chriſt, &amp;c.</q>
+               </p>
+               <p>
+                  <hi>Which done, the Miniſter explaineth theſe Articles, going through each particular branch thereof.</hi>
+               </p>
+               <p>
+                  <hi>Which being ended the Miniſter kneeling down, prays for the child, Concluding.</hi>
+                  <q>
+                     <pb n="8" facs="tcp:119544:6"/>
+OUr Father which art in Heaven, Hallowed be thy name, thy King<g ref="char:EOLhyphen"/>dome come, &amp;c.</q>
+               </p>
+               <sp>
+                  <speaker>Miniſter.</speaker>
+                  <p>NAme the child:</p>
+               </sp>
+               <p>
+                  <hi>Which being told him, he ſprinkleth the child with water, and ſaith,</hi>
+                  <q>
+                     <hi>N.</hi> I baptiſe thee in the Name of the Father, and of the Son, and of the Holy Ghoſt.</q>
+               </p>
+               <p>
+                  <hi>After which he giveth God thanks for ma<g ref="char:EOLhyphen"/>king us, and our children partakers of that bleſſed Sacrament.</hi>
+               </p>
+            </div>
+            <div type="eucharistic_rite">
+               <head>The Adminiſtration of the Lords Supper.</head>
+               <p>
+                  <hi>THe day wherein the Lords Supper is to be administred (which commonly is once a moneth) or ſo oft as the</hi> Congregation <hi>ſhal think expedient, the Miniſter firſt being in his Pulpit deſireth the people to conſider how Jeſus Christ did ordaine unto us his holy Sa<g ref="char:EOLhyphen"/>craments.</hi>
+               </p>
+               <p>Then the Miniſter readeth:
+1 Cor. 11. Chap. <hi>beginning at this part of the Chap.</hi> I have received of the Lord that
+<pb n="9" facs="tcp:119544:6"/>
+which I have delivered unto you <hi>(and ſo in to the end of the Chapter.</hi>
+               </p>
+               <p>After which he proceedeth to an Exhortation.</p>
+               <p>
+                  <hi>The Exhortation being ended, the Miniſter commeth to the Table, every man, and woman, placing themſelves with moſt conveniencie.</hi>
+               </p>
+               <p>FIrſt, the Miniſter taketh the Bread, and giveth thanks, which being done, he breaketh the Bread. Firſt, receiving it himſelf, and then delivereth it to the peo<g ref="char:EOLhyphen"/>ple, who are to diſtribute and divide the ſame among themſelves, <hi>(according to our Saviours command)</hi> and in the ſame man<g ref="char:EOLhyphen"/>ner he likewiſe giveth the Cup, during which time, ſome place of the Scriptures reads, which doth lively ſet forth the death of Chriſt, <hi>(to the intent that our eyes and ſenſes may not only be occupied in theſe outward ſignes of Bread and Wine, which are called the viſible Word, but)</hi> that our hearts and minds <hi>(alſo)</hi> may be fully fixed in the contemplation of the Lords death, which is by this holy Sacrament repreſented.</p>
+               <p>
+                  <hi>Then the Miniſter giving thankes after all have received. ſaying.</hi>
+                  <q>
+                     <pb n="11" facs="tcp:119544:7"/>
+Moſt mercifull Father, we render to thee all prayſe, thanks, and glorie, for that it hath pleaſed thee of thy great mercies to g<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ant unto us miſerable ſinners ſo excellent a gift and treaſure, as to re<g ref="char:EOLhyphen"/>ceive us into the fellowſhip, and company of thy deere Son Jeſus Chriſt our Lord, whom thou haſt delivered to death for us, and haſt given him unto us, as a neceſſarie food and nouriſhment unto everlaſting life. And now wee beſeech thee alſo, ô heavenly Father, to grant us this requeſt, that thou never ſuffer us to become ſo un<g ref="char:EOLhyphen"/>kind, as to forget ſo worthy benefits, but rather imprint, and faſten them ſure in our hearts, that wee may grow and increaſe more and more in true faith, which con<g ref="char:EOLhyphen"/>tinually is exerciſed in al manner of good works: and ſo much the rather, ô Lord, confirme us in theſe perillous days, and rages of Satan, that wee may conſtantly ſtand &amp; continue in the confeſſion of the ſame, to the advancement of thy glorie, who art God over all, bleſſed for ever. So be it.</q>
+               </p>
+               <p>
+                  <hi>After which is to be ſung a Pſalme of thanks<g ref="char:EOLhyphen"/>giving.</hi>
+                  <pb n="11" facs="tcp:119544:7"/>
+                  <hi>MY ſoul give laud, &amp;c.</hi> (or the like)</p>
+               <p>
+                  <hi>After which the Miniſter giveth the bleſſing, and they depart.</hi>
+               </p>
+            </div>
+            <div type="rite_of_matrimony">
+               <head>The form of Matrimonie.</head>
+               <p>THe Bains or Contract are to be pub<g ref="char:EOLhyphen"/>liſhed three ſeveral days in the Con<g ref="char:EOLhyphen"/>gregation <hi>(to the intent, that if any perſon have intereſt or title to either of the parties, they may have ſufficient time to make their challenge.)</hi>
+               </p>
+               <p>
+                  <hi>The Minister comming to joine them together in Matrimony, firſt maketh an Exhortation, af<g ref="char:EOLhyphen"/>ter which he ſaith.</hi>
+               </p>
+               <p>
+                  <q>I Require and charge you, as you will anſwer at the day of judgement, when the ſecrets of all hearts ſhall be diſcloſed, that if either of you do know any impedi<g ref="char:EOLhyphen"/>ment, why ye may not be lawfully joined together in Matrimony, that yee confeſſe it. For be ye well aſſured, that ſo many as be coupled otherwiſe then Gods Word doth allow, are not joined together by God, neither is there Matrimony lawfull<g ref="char:punc">▪</g>
+                  </q>
+               </p>
+               <p>
+                  <hi>If no impediment, be the Minister ſaith to the Congregation.</hi>
+                  <q>
+                     <pb n="12" facs="tcp:119544:8"/>
+I Take you to witneſſe, that be here preſent, beſeeching you all to have good remembrance hereof, and moreover if their be any of you, which knoweth that either of theſe parties be contracted to any other; or knoweth any other law<g ref="char:EOLhyphen"/>full impediment, let them now make de<g ref="char:EOLhyphen"/>claration thereof.</q>
+               </p>
+               <p>
+                  <hi>If no cauſe be alleadged he proceedeth, ſaying to the man,</hi>
+                  <q>FOr as much as no man ſpeaketh a<g ref="char:EOLhyphen"/>gainſt this thing, you <hi>M.</hi> ſhall proteſt here before God and his holy congregati<g ref="char:EOLhyphen"/>on, that you have taken, and are now con<g ref="char:EOLhyphen"/>tent to have <hi>N.</hi> here preſent for your law<g ref="char:EOLhyphen"/>full wife, promiſing to keepe her, love and intreat her in all things, according to the duty of a faithfull husband, forſaking all others during her life, and briefely to live in all holy converſation with her, keeping faith and truth in all points, according as the word of God and his holy Goſpell doth comma<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d.</q>
+               </p>
+               <p>
+                  <hi>He Anſwereth.</hi>
+                  <q>Even ſo I take her before God, and the preſence of this his congregation.</q>
+               </p>
+               <p>
+                  <pb n="13" facs="tcp:119544:8"/>
+                  <hi>Then the Miniſter ſaith to the Woman.</hi>
+                  <q>YOu <hi>N.</hi> ſhall proteſt here before the face of God, in the preſence of his holy Congregation, that you have taken, and are now content to have <hi>M,</hi> here pre<g ref="char:EOLhyphen"/>ſent for your lawfull husband, promiſing to him ſubjection and obedience, forſa<g ref="char:EOLhyphen"/>king all other during his life, and finally to live in an holy converſation with him, keeping faith and truth in all points, as Gods word doth preſcribe.</q>
+               </p>
+               <p>
+                  <hi>Shee anſwereth.</hi>
+                  <q>Even ſo I take him before God, and in the preſence of this his congegation.</q>
+               </p>
+               <p>
+                  <hi>After which the Miniſter inſtructeth them, out of ſome places of Scripture, and ſo commendeth them to God: ſaying,</hi>
+                  <q>THe Lord ſanctifie, and bleſſe you, the Lord power the riches of his grace upon you, that yee may pleaſe him, and live together in holy love, to your lives end. So be it.</q>
+               </p>
+               <p>Then is ſung the 128 Pſalme, or ſome other pertinent for the occaſion.</p>
+            </div>
+            <div type="rite_of_visitation_of_the_sick">
+               <pb n="14" facs="tcp:119544:9"/>
+               <p>The Viſitation of the Sick is referred to the diſcretion of the Miniſter.</p>
+            </div>
+            <div type="rite_of_burial">
+               <head>Of Burials.</head>
+               <p>THe Corps is reverently brought to the Grave, accompanied with the Congregation; without any further Ce<g ref="char:EOLhyphen"/>remonies: which being laid in the Grave, the Miniſter maketh ſome comfortable exhortation to the people touching death, and reſurrection, committing the body to the earth<g ref="char:punc">▪</g> and ſo they depart.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
